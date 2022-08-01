@@ -1,0 +1,5 @@
+"nom";"age";"sexe";"taille";"poids"
+"Raoul";21;"M";172;80
+"Fred";22;"M";185;85
+"Dominique";20;"F";179;75
+"Rachel";22;"F";165;69
