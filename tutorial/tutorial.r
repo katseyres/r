@@ -229,7 +229,7 @@ c(li, myList)                   # concaténation de 2 listes
 x<-c("a", "b", "c", "a")
 y<-1:4
 
-df<-data.frame(x,y)       # création d'un datafram de 2 composantes de longueur=4
+df<-data.frame(x,y)       # création d'une dataframe de 2 composantes de longueur=4
 df
 length(df)                # nombre de composantes
 attributes(df)            # description du dataframe
